@@ -1,11 +1,11 @@
-# 1300AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
+# 1300AH [[ [Re]generated on 2016-04-10 (17:13:59) ]]
 
-* `1206Muradi.SilkDurar (TAGS: ...,PPE)`
-* `1212BahrCulum.FawaidRijaliya (TAGS: SHC,...,PPE)`
-* `1212BahrCulum.FawaidRijaliya (TAGS: SHC,PPE)`
-* `1218SalihFulani.QatfThamar (TAGS: ...,BIB,PPE)`
-* `1232IbnKhatibCumari.RawdaFayha (TAGS: ...,PPE)`
-* `1237Jabarti.CajaibAthar (TAGS: ...,PPE)`
-* `1250IbnCaliShaykani.BadrTalic (TAGS: ...,PPE)`
-* `1269CabdMalikCasimi.SamtNujum (TAGS: ...,PPE)`
-* `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB,PPE)`
+* `1206Muradi.SilkDurar (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM)`
+* `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
+* `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
+* `1218SalihFulani.QatfThamar (TAGS: BIB,CENT1300,PPE,_ADILLA,_FAHARIS,_KUTUB)`
+* `1232IbnKhatibCumari.RawdaFayha (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM)`
+* `1237Jabarti.CajaibAthar (TAGS: CENT1300,PPE,_TARIKH)`
+* `1250IbnCaliShaykani.BadrTalic (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
+* `1269CabdMalikCasimi.SamtNujum (TAGS: CENT1200,PPE,_TARIKH)`
+* `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB,CENT1300,PPE,_FAHARIS,_KUTUB)`
