@@ -1,4 +1,4 @@
-# 1300AH [[ [Re]generated on 2016-05-21 (14:23:34) ]]
+# 1300AH [[ [Re]generated on 2016-05-21 (19:21:33) ]]
 
 * `1206Muradi.SilkDurar (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300,PPE,SHC,_HADITH,_SHICI,_TARAJIM)`
@@ -6,6 +6,7 @@
 * `1218SalihFulani.QatfThamar (TAGS: BIB,CENT1300,PPE,_ADILLA,_FAHARIS,_KUTUB)`
 * `1232IbnKhatibCumari.RawdaFayha (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM)`
 * `1237Jabarti.CajaibAthar (TAGS: CENT1300,PPE,_TARIKH)`
+* `1246IbnHamadBassam.DurarMafakhir (TAGS: CENT1300,_ANSAB,_TARAJIM,_TARIKH)`
 * `1250IbnCaliShaykani.BadrTalic (TAGS: CENT1300,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
 * `1269CabdMalikCasimi.SamtNujum (TAGS: CENT1200,PPE,_TARIKH)`
 * `1270ShihabDinAlusi.GharaibIghtirab (TAGS: CENT1300,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
