@@ -110,11 +110,14 @@
 
 
 
-# 1300AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 1300AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
 
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
-* `1205Zubaydi.TajCarus (TAGS: CENT1300, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
+* `1205MurtadaZabidi.BulghatArib (TAGS: CENT1300, _CULUM, _HADITH, _MUSTALAHAT)`
+* `1205MurtadaZabidi.HikmatIshraf (TAGS: CENT1300, _LUGHA)`
+* `1205MurtadaZabidi.TajCarus (TAGS: CENT1300, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
+* `1205MurtadaZubidi.Amali (TAGS: CENT1300, _HADITH, _MAKHTUTAT)`
 * `1206IbnCabdWahhab.Fatawa (TAGS: CENT1300, _FATAWA, _FIQH, _HANBALI)`
 * `1206Muradi.SilkDurar (TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
