@@ -138,7 +138,7 @@
 
 
 
-# 1300AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 1300AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
@@ -169,6 +169,7 @@
 * `1285IbnHasanTamimi.RasailWaFatawa (TAGS: CENT1300, _FATAWA)`
 * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB)`
 * `1292IbnIbrahimMaghribi.QurratCaynBiFatawa (TAGS: CENT1300, _FATAWA)`
+* `1292MuhammadNassarCiraqi.DiwanNassariyyat (TAGS: CENT1300, _SHICR)`
 * `1293CabdLatifAlShaykh.CuyunRasailwaAjwiba (TAGS: CENT1300, _FATAWA)`
 * `1299IbnCalishMaliki.FathCali (TAGS: CENT1300, _FATAWA)`
 
