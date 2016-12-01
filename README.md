@@ -138,7 +138,7 @@
 
 
 
-# 1300AH [[ [Re]generated on 2016-12-01 (13:36:39) ]]
+# 1300AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
 
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
@@ -147,6 +147,18 @@
 * `1205MurtadaZabidi.TajCarus (TAGS: CENT1300, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
 * `1205MurtadaZubidi.Amali (TAGS: CENT1300, _HADITH, _MAKHTUTAT)`
 * `1206IbnCabdWahhab.Fatawa (TAGS: CENT1300, _FATAWA, _FIQH, _HANBALI)`
+* `1206IbnCabdWahhab.Kabair (TAGS: CENT1300, _AKHLAQ, _BUHUTH, _HADITH, _MASAIL, _TAZKIYA)`
+* `1206IbnCabdWahhab.KashfShubuhat (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.MajmucatRasailFiTawhid (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.MuallafatIbnCabdWahhab (TAGS: CENT1300, _CAQAID, _MILAL, _TARAJIM, _TARIKH)`
+* `1206IbnCabdWahhab.MufidMustafid (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.MukhtasarInsaf (TAGS: CENT1300, _FIQH, _HANBALI)`
+* `1206IbnCabdWahhab.MukhtasarSira (TAGS: CENT1300, _ASHAB, _SHAMAIL, _SIRA)`
+* `1206IbnCabdWahhab.MukhtasarZadMacad (TAGS: CENT1300, _ASHAB, _SHAMAIL, _SIRA)`
+* `1206IbnCabdWahhab.QawacidArbaca (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.RasailShakhsiyya (TAGS: CENT1300, _CAQAID, _MILAL, _TARAJIM, _TARIKH)`
+* `1206IbnCabdWahhab.Tawhid (TAGS: CENT1300, _CAQAID, _MILAL, _SUNNI)`
+* `1206IbnCabdWahhab.ThalathatUsul (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206Muradi.SilkDurar (TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
