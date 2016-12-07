@@ -138,7 +138,7 @@
 
 
 
-# 1300AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
+# 1300AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
 
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
@@ -146,19 +146,47 @@
 * `1205MurtadaZabidi.HikmatIshraf (TAGS: CENT1300, _LUGHA)`
 * `1205MurtadaZabidi.TajCarus (TAGS: CENT1300, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _SARF)`
 * `1205MurtadaZubidi.Amali (TAGS: CENT1300, _HADITH, _MAKHTUTAT)`
+* `1206IbnCabdWahhab.AdabMashyIlaSalat (TAGS: CENT1300, _FIQH, _HANBALI)`
+* `1206IbnCabdWahhab.AdabMashyIlaSalat (TAGS: CENT1300, _FIQH, _HANBALI, _MASAIL, _USUL)`
+* `1206IbnCabdWahhab.AhadithFiFitan (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.AhkamSalat (TAGS: CENT1300, _BUHUTH, _MASAIL)`
+* `1206IbnCabdWahhab.AhkamTamanniMawt (TAGS: CENT1300, _BUHUTH, _FIQH, _MASAIL, _USUL)`
+* `1206IbnCabdWahhab.ArbacQawacidTaduruAhkamCalayha (TAGS: CENT1300, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `1206IbnCabdWahhab.BacdFawaidSulhHudaybiyya (TAGS: CENT1300, _ASHAB, _SHAMAIL, _SIRA)`
+* `1206IbnCabdWahhab.CaqidaFirqaNajiya (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.FadailQuran (TAGS: CENT1300, _CULUM, _FADAIL, _QURAN, _QURAN, _TAFSIR)`
+* `1206IbnCabdWahhab.FadlIslam (TAGS: CENT1300, _CAQAID)`
+* `1206IbnCabdWahhab.FadlIslam (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206IbnCabdWahhab.Fatawa (TAGS: CENT1300, _FATAWA, _FIQH, _HANBALI)`
+* `1206IbnCabdWahhab.JawahirMudiyya (TAGS: CENT1300, _CAQAID)`
 * `1206IbnCabdWahhab.Kabair (TAGS: CENT1300, _AKHLAQ, _BUHUTH, _HADITH, _MASAIL, _TAZKIYA)`
+* `1206IbnCabdWahhab.Kabair (TAGS: CENT1300, _BUHUTH, _MASAIL)`
 * `1206IbnCabdWahhab.KashfShubuhat (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.KhutabMinbariyya (TAGS: CENT1300, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `1206IbnCabdWahhab.KitabTahara (TAGS: CENT1300, _BUHUTH, _FIQH, _MASAIL, _USUL)`
+* `1206IbnCabdWahhab.MabhathIjtihadWaKhilaf (TAGS: CENT1300, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `1206IbnCabdWahhab.MacnaLaIlahaIllaLlah (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206IbnCabdWahhab.MajmucatRasailFiTawhid (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.MansikHajj (TAGS: CENT1300, _BUHUTH, _MASAIL)`
+* `1206IbnCabdWahhab.MasailLakhkhasahaIbnCabdWahhab (TAGS: CENT1300, _BUHUTH, _FIQH, _MASAIL, _USUL)`
 * `1206IbnCabdWahhab.MuallafatIbnCabdWahhab (TAGS: CENT1300, _CAQAID, _MILAL, _TARAJIM, _TARIKH)`
 * `1206IbnCabdWahhab.MufidMustafid (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206IbnCabdWahhab.MukhtasarInsaf (TAGS: CENT1300, _FIQH, _HANBALI)`
 * `1206IbnCabdWahhab.MukhtasarSira (TAGS: CENT1300, _ASHAB, _SHAMAIL, _SIRA)`
+* `1206IbnCabdWahhab.MukhtasarTafsirSuratAnfal (TAGS: CENT1300, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `1206IbnCabdWahhab.MukhtasarZadMacad (TAGS: CENT1300, _ASHAB, _SHAMAIL, _SIRA)`
 * `1206IbnCabdWahhab.QawacidArbaca (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206IbnCabdWahhab.RasailShakhsiyya (TAGS: CENT1300, _CAQAID, _MILAL, _TARAJIM, _TARIKH)`
+* `1206IbnCabdWahhab.RisalaFiRaddCalaRafida (TAGS: CENT1300, _CAQAID, _MILAL, _RUDUD)`
+* `1206IbnCabdWahhab.RisalaMufida (TAGS: CENT1300, _CAQAID)`
+* `1206IbnCabdWahhab.SharhKitabTawhid (TAGS: CENT1300, _CAQAID)`
+* `1206IbnCabdWahhab.ShurutSalat (TAGS: CENT1300, _BUHUTH, _FIQH, _MASAIL, _USUL)`
+* `1206IbnCabdWahhab.TafsirAyatMinQuran (TAGS: CENT1300, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `1206IbnCabdWahhab.Tawhid (TAGS: CENT1300, _CAQAID, _MILAL, _SUNNI)`
 * `1206IbnCabdWahhab.ThalathatUsul (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1206IbnCabdWahhab.UsulIman (TAGS: CENT1300, _CAQAID)`
+* `1206IbnCabdWahhab.UsulIman (TAGS: CENT1300, _CAQAID)`
+* `1206IbnCabdWahhab.UsulIman (TAGS: CENT1300, _CAQAID, _MILAL)`
 * `1206Muradi.SilkDurar (TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1212BahrCulum.FawaidRijaliya (TAGS: CENT1300, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
@@ -168,8 +196,22 @@
 * `1232IbnKhatibCumari.RawdaFayha (TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM)`
 * `1237Jabarti.CajaibAthar (TAGS: CENT1300, PPE, _TARIKH)`
 * `1246IbnHamadBassam.DurarMafakhir (TAGS: CENT1300, _ANSAB, _TARAJIM, _TARIKH)`
+* `1250IbnCaliShawkani.AdabTalab (TAGS: CENT1300, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `1250IbnCaliShawkani.BadrTalic (TAGS: CENT1300, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `1250IbnCaliShawkani.BahthMusaffir (TAGS: CENT1300, _BUHUTH, _MASAIL)`
+* `1250IbnCaliShawkani.DarariMudiyya (TAGS: CENT1300, _FIQH)`
 * `1250IbnCaliShawkani.FathBariMinFatawa (TAGS: CENT1300, _MAJALLAT, _MAJMUCAT, _FATAWA)`
+* `1250IbnCaliShawkani.FathQadir (TAGS: CENT1300, _AHKAM, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `1250IbnCaliShawkani.IrshadFuhul (TAGS: CENT1300, _FIQH, _QAWACID, _USUL)`
+* `1250IbnCaliShawkani.IrshadThiqat (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1250IbnCaliShawkani.NaylAwtar (TAGS: CENT1300, _FIQH, _HADITH, _MUSTAQILLA, _SHARH, _USUL)`
+* `1250IbnCaliShawkani.QawlMufid (TAGS: CENT1300, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `1250IbnCaliShawkani.SawarimHidad (TAGS: CENT1300, _CAQAID, _FIRAQ, _MILAL)`
+* `1250IbnCaliShawkani.SaylJarrar (TAGS: CENT1300, _FIQH)`
+* `1250IbnCaliShawkani.SharhSudur (TAGS: CENT1300, _CAQAID, _FIQH, _MUSTAQILLA)`
+* `1250IbnCaliShawkani.TuhafMinMadhahibSalaf (TAGS: CENT1300, _CAQAID, _MILAL)`
+* `1250IbnCaliShawkani.TuhfatDhakirin (TAGS: CENT1300, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _RAQAIQ, _TAZKIYA)`
+* `1250IbnCaliShawkani.WilayatAllah (TAGS: CENT1300, _HADITH, _SHARH)`
 * `1252IbnCabidinDimashqi.TanqihFatawa (TAGS: CENT1300, _FATAWA, _FIQH, _HANAFI)`
 * `1258IbnCabdSalamTusuli.AjwibatTusuli (TAGS: CENT1300, _FATAWA)`
 * `1269CabdMalikCasimi.SamtNujum (TAGS: CENT1200, PPE, _TARIKH)`
@@ -177,6 +219,7 @@
 * `1270ShihabDinAlusi.GharaibIghtirab (TAGS: CENT1300, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1270ShihabDinAlusi.GharaibIghtirab (TAGS: CENT1400, _MISC)`
 * `1270ShihabDinAlusi.RuhMacani (TAGS: CENT1300, _CULUM, _QURAN, _TAFSIR)`
+* `1270ShihabDinAlusi.Tafsir (TAGS: CENT1300, _SUNNI, _TAFSIR)`
 * `1277MuhammadTantawi.NashaNahw (TAGS: _ADILLA, _CENT00NO, _FAHARIS, _KUTUB)`
 * `1282AbaButayn.RasailWaFatawa (TAGS: CENT1300, _FATAWA)`
 * `1285CabdRahmanTamimi.Maqamat (TAGS: CENT1300, _TABAQAT, _TARAJIM)`
