@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 1300AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 1300AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
 * `1204SulaymanJamal.Hashiya (TAGS: CENT1300, _FIQH, _SHAFICI)`
@@ -261,6 +261,7 @@
 * `1285IbnHasanAlShaykh.RasailWaFatawa (TAGS: CENT1300, _FATAWA)`
 * `1285IbnHasanAlShaykh.TawhidWaQurratCuyunMuwahhidin (TAGS: _CAQAID)`
 * `1286IcjazHusaynKunturi.KashfHajb (TAGS: BIB, CENT1300, PPE, _FAHARIS, _KUTUB)`
+* `1290CabdGhaffarAkhras.Diwan (TAGS: _SHICR_CUTHMANI, _SHICR)`
 * `1290RifacaTahtawi.NihayatIjaz (TAGS: CENT1300, _SHAMAIL, _SIRA)`
 * `1292IbnIbrahimMaghribi.QurratCaynBiFatawa (TAGS: CENT1300, _FATAWA)`
 * `1292MuhammadNassarCiraqi.DiwanNassariyyat (TAGS: CENT1300, _SHICR)`
